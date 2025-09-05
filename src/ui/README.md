@@ -8,6 +8,8 @@
 
 This service provides the frontend for the retail store, serving the HTML UI and aggregating calls to the backend API components.
 
+<!-- This is test commit -->
+
 ## Configuration
 
 The following environment variables are available for configuring the service:
